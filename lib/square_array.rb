@@ -6,6 +6,6 @@ def square_array(array)
     num = array[counter] * array[counter]
     new << num
     counter += 1
-  }
+  } end
   new
 end
